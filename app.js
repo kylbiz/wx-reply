@@ -106,7 +106,7 @@ server.use(restify.bodyParser());
 //-------------------------------------------------
 // server.post('/wechat', Message.getMessage);
 
-server.post('/wechat', function(req, res, obj, next) {
+server.post('/wechat', function(req, res, next) {
 	next();
 
 var options = {
