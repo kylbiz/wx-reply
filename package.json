@@ -9,9 +9,11 @@
   "author": "开业啦",
   "license": "MIT",
   "dependencies": {
+    "data2xml": "^1.2.2",
     "gm": "^1.21.1",
     "restify": "^4.0.3",
-    "wechat": "^2.0.3"
+    "wechat": "^2.0.3",
+    "xml2js": "^0.4.16"
   },
   "directories": {
     "doc": "doc"
