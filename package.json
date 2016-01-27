@@ -1,0 +1,31 @@
+{
+  "name": "wx-reply",
+  "version": "0.0.1",
+  "description": "微信回复",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "开业啦",
+  "license": "MIT",
+  "dependencies": {
+    "gm": "^1.21.1",
+    "restify": "^4.0.3",
+    "wechat": "^2.0.3"
+  },
+  "directories": {
+    "doc": "doc"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kylbiz/wx-reply.git"
+  },
+  "keywords": [
+    "微信回复",
+    "开业啦"
+  ],
+  "bugs": {
+    "url": "https://github.com/kylbiz/wx-reply/issues"
+  }
+}
