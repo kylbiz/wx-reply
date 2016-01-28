@@ -9,6 +9,7 @@
   "author": "开业啦",
   "license": "MIT",
   "dependencies": {
+    "async": "^1.5.2",
     "data2xml": "^1.2.2",
     "gm": "^1.21.1",
     "restify": "^4.0.3",
