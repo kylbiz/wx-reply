@@ -7,7 +7,7 @@
 
 ```javascript
 
-	引用自：https://segmentfault.com/a/1190000003012131 
+    引用自：https://segmentfault.com/a/1190000003012131 
 	日期： 2016-01-28
 
 	var http = require("http");
@@ -64,6 +64,19 @@
 	}
 
 ```
+
+#### 配置gm
+参考 [gm文档](https://github.com/aheckmann/gm)
+
+centos 服务器配置, mac平台其文档中有描述
+
+* 安装  `GraphicsMagick` 或 `ImageMagick` 使用 yum 即可进行安装
+
+* 需要安装 `freetype` 和 `ghostscript` 
+
+* 需要字体包，这里提供 苹方字体 `pingfangregular.ttf`
+
+
 
 #### `node app` 可以使用
 
