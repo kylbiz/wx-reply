@@ -77,6 +77,11 @@ centos 服务器配置, mac平台其文档中有描述
 * 需要字体包，这里提供 苹方字体 `pingfangregular.ttf`
 
 
+#### 配置服务器 redis
+
+* `# redis-server & `启动 redis 服务
+* `$ redis-cli` 查看 redis 数据库
+*  最好配置 redis 开机启动，但是我没有机会测试
 
 #### `node app` 可以使用
 
