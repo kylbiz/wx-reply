@@ -91,7 +91,7 @@ centos 服务器配置, mac平台其文档中有描述
 
 所以，采用如下方式执行程序
 
-`$ pm2 srart app.js --env production --name your_app_name -i -1`
+`$ pm2 start app.js --env production --name your_app_name -i -1`
 
 欢迎各种 `issue`
 
