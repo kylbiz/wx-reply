@@ -7,8 +7,8 @@
 
 ```javascript
 
-    引用自：https://segmentfault.com/a/1190000003012131 
-	日期： 2016-01-28
+        //引用自：https://segmentfault.com/a/1190000003012131 
+	//日期： 2016-01-28
 
 	var http = require("http");
 	var url = require("url");
@@ -91,7 +91,7 @@ centos 服务器配置, mac平台其文档中有描述
 
 所以，采用如下方式执行程序
 
-`$ pm2 srart app.js --env production --name your_app_name`
+`$ pm2 srart app.js --env production --name your_app_name -i -1`
 
 欢迎各种 `issue`
 
