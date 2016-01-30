@@ -7,8 +7,8 @@
 
 ```javascript
 
-        //引用自：https://segmentfault.com/a/1190000003012131 
-	//日期： 2016-01-28
+	// 引用自：https://segmentfault.com/a/1190000003012131 
+	// 日期： 2016-01-28
 
 	var http = require("http");
 	var url = require("url");
