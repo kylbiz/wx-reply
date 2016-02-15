@@ -4,10 +4,10 @@ var port = 4987;
 var MessageServer = require('./lib/message');
 var Message = new MessageServer();
 
-var WX = new require('./lib/wx.js');
-var wx = new WX();
+// var WX = new require('./lib/wx.js');
+// var wx = new WX();
 
-wx.maintainToken(); // 维护token
+// wx.maintainToken(); // 维护token
 
 //-------------------------------------------------
 var server = restify.createServer();
